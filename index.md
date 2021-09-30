@@ -135,4 +135,23 @@ conda install seaborn
 
 <br>
 
+**Visual Studio Code Extensions**
 
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [How to use Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+
+How to configure native bracket pair colorization:
+
+- Remove any existing Bracket Pair Colorizer extensions.
+- Update VS Code
+- Open your user settings: `CMD (CTRL for non-Mac users) + Shift + P` and type `settings`. 
+- Select `Open settings (JSON) 
+- Add the following code:
+
+```bash
+"editor.bracketPairColorization.enabled": true
+````
+
+- [More information about the native bracket pair colorization](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
