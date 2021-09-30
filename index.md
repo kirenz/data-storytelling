@@ -55,6 +55,7 @@ Lecture | Notebook | Link to GitHub | Colab Link
 -- | -- | -- | --
 L04_1_case_study_stents|stents|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 L05_1_case_passwords|passwords|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
+
 <!--
 
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
