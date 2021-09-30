@@ -57,7 +57,6 @@ L04_1_case_study_stents|stents|[GitHub](https://github.com/kirenz/modern-statist
 L05_1_case_passwords|passwords|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
 
 <!--
-
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
 L05_2_exploring_categorical_data|row-column-proportions,|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
@@ -76,7 +75,6 @@ L06_2_exploring_numerical_data|box-plot|[GitHub](https://github.com/kirenz/moder
 L06_2_exploring_numerical_data|robust-statistics|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-6-robust-statistics.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-6-robust-statistics.ipynb)
 L06_2_exploring_numerical_data|transforming-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)
 L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)
-
 -->
 
 
