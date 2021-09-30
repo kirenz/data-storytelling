@@ -96,6 +96,22 @@ Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
 
+
+
+*Installation of modules*
+
+Activate your dash environment
+
+```bash
+conda activate dash
+```
+
+Install module
+
+```bash
+conda install seaborn
+```
+
 <br>
 
 
