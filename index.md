@@ -98,6 +98,4 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 <br>
 
-- [Dash Core Components](https://anaconda.org/conda-forge/dash-core-components)
-- [Dash HTML components](https://anaconda.org/conda-forge/dash-html-components)
 
