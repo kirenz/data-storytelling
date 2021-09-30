@@ -103,6 +103,19 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 
 
+**Update Python and Anaconda modules**
+
+- On *Windows* open the Start menu and open an Anaconda Command Prompt. 
+- On *macOS* or *Linux* open a terminal window.
+
+```bash
+conda update python
+```
+
+```bash
+conda update -all
+```
+
 **Installation of Python modules**
 
 - On *Windows* open the Start menu and open an Anaconda Command Prompt. 
