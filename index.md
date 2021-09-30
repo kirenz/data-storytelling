@@ -40,6 +40,7 @@ Nr | Lecture | Topic | Slides
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf)  
 
+
 <!--
 05|L05_2_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_2_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_2_exploring_categorical_data.pdf)  
 05|L05_3_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_3_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_3_exploring_categorical_data.pdf)  
@@ -76,6 +77,7 @@ L06_2_exploring_numerical_data|robust-statistics|[GitHub](https://github.com/kir
 L06_2_exploring_numerical_data|transforming-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-7-transforming-data.ipynb)
 L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)
 -->
+
 
 
 ---
