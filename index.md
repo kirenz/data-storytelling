@@ -60,9 +60,6 @@ Lecture | Notebook | Link to GitHub | Colab Link
 L04_1_case_study_stents|stents|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-1-stents.ipynb)
 L05_1_case_passwords|passwords|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
-
-
-<!--
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
 L05_2_exploring_categorical_data|row-column-proportions,|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-3-row-column-proportions,.ipynb)
 L05_2_exploring_categorical_data|pie-charts|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-4-pie-charts.ipynb)
@@ -72,6 +69,9 @@ L05_3_exploring_categorical_data|scatterplot-paired-data|[GitHub](https://github
 L05_3_exploring_categorical_data|dot-plots-mean|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)
 L05_3_exploring_categorical_data|histograms|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
 L05_3_exploring_categorical_data|x-case-height|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-x-case-height.ipynb)
+
+
+<!--
 L06_1_exploring_numerical_data|scatterplot-paired-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-1-scatterplot-paired-data.ipynb)
 L06_2_exploring_numerical_data|dot-plots-mean|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-2-dot-plots-mean.ipynb)
 L06_2_exploring_numerical_data|histograms|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-3-histograms.ipynb)
