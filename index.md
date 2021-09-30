@@ -102,6 +102,8 @@ Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/c
 Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
 
 
+---
+
 
 **Update Python and Anaconda modules**
 
@@ -115,6 +117,8 @@ conda update python
 ```bash
 conda update -all
 ```
+
+---
 
 **Installation of Python modules**
 
@@ -134,6 +138,8 @@ conda install seaborn
 ```
 
 <br>
+
+---
 
 **Visual Studio Code Extensions**
 
