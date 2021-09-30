@@ -4,14 +4,18 @@
 Welcome to data storytelling
 ```
 
-
-## Explanatory Data Analytics 
+## Organisatorisches
 
 Lecture|Name|Topic|Slides
 --- |---|---|---
 00|L00_intro|Projektüberblick|[L00_intro.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_intro.pdf)  
 00|L00_organisatorisches|Organisatorisches|[L00_organisatorisches.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_organisatorisches.pdf)  
 00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf) 
+
+## Explanatory Data Analytics 
+
+Lecture|Name|Topic|Slides
+--- |---|---|---
 01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
 02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
 
