@@ -108,7 +108,7 @@ Activate your dash environment
 conda activate dash
 ```
 
-Install the module
+Install the module seaborn
 
 ```bash
 conda install seaborn
