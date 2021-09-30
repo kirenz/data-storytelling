@@ -98,7 +98,10 @@ Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/dat
 
 
 
-*Installation of modules*
+**Installation of Python modules**
+
+- On *Windows* open the Start menu and open an Anaconda Command Prompt. 
+- On *macOS* or *Linux* open a terminal window.
 
 Activate your dash environment
 
@@ -106,7 +109,7 @@ Activate your dash environment
 conda activate dash
 ```
 
-Install module
+Install the module
 
 ```bash
 conda install seaborn
