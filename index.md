@@ -19,12 +19,12 @@ Lecture|Name|Topic|Slides
 01|L01_context|The importance of context|[L01_context.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L01_context.pdf)  
 02|L02_display|Choose an appropriate display|[L02_display.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L02_display.pdf)  
 02| Notebook Exercise 2.2| Data visualization with plotly |[Solution to Exercise 2.2](https://github.com/kirenz/data-storytelling/blob/main/notebooks/2_2_PYTHON.ipynb)  
+03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
 
 
 
 
 <!--
-03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
 04|L04_attention|Focus attention|[L04_attention.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L04_attention.pdf)  
 05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  
 06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
