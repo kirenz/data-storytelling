@@ -1,13 +1,25 @@
-Date,Direct Sales,Indirect Sales,Goal
-Jan.-19,88,82,90
-Feb.-19,76,71,90
-März-19,48,89,90
-Apr.-19,76,81,90
-Mai-19,71,88,90
-Juni-19,59,120,90
-Juli-19,80,84,90
-Aug.-19,69,74,90
-Sept.-19,54,98,90
-Okt.-19,81,85,90
-Nov.-19,74,94,90
-Dez.-19,46,65,90
+Date,Sales,Category,Goal
+Jan.-19,88,Direct Sales,90
+Feb.-19,76,Direct Sales,90
+März-19,48,Direct Sales,90
+Apr.-19,76,Direct Sales,90
+Mai-19,71,Direct Sales,90
+Juni-19,59,Direct Sales,90
+Juli-19,80,Direct Sales,90
+Aug.-19,69,Direct Sales,90
+Sept.-19,54,Direct Sales,90
+Okt.-19,81,Direct Sales,90
+Nov.-19,74,Direct Sales,90
+Dez.-19,46,Direct Sales,90
+Jan.-19,82,Indirect Sales,90
+Feb.-19,71,Indirect Sales,90
+März-19,89,Indirect Sales,90
+Apr.-19,81,Indirect Sales,90
+Mai-19,88,Indirect Sales,90
+Juni-19,120,Indirect Sales,90
+Juli-19,84,Indirect Sales,90
+Aug.-19,74,Indirect Sales,90
+Sept.-19,98,Indirect Sales,90
+Okt.-19,85,Indirect Sales,90
+Nov.-19,94,Indirect Sales,90
+Dez.-19,65,Indirect Sales,90
