@@ -106,7 +106,7 @@ Markdown | Mastering Markdown on GitHub | [GitHub Tutorial](https://guides.githu
 Visual Studio Code | Code editor | [Install Code](https://code.visualstudio.com/)
 Anaconda | Data Science Platform | [Install Anaconda](https://kirenz.github.io/codelabs/codelabs/anaconda-install/#0)
 Seaborn | Introduction to Seaborn | [Introduction](https://github.com/kirenz/data-storytelling/blob/main/slides/seaborn_intro.pdf)
-Jupyter Books | Installation tutorial | [Tutorial][[Jupyter book installation tutorial](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0), [Gallery](https://executablebooks.org/en/latest/gallery.html)
+Jupyter Books | Installation tutorial | [Jupyter book installation tutorial](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0), [Gallery](https://executablebooks.org/en/latest/gallery.html)
 
 ---
 
