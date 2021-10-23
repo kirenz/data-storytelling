@@ -120,7 +120,7 @@ Jupyter Books | Installation tutorial | [Jupyter book installation tutorial](htt
 conda update python
 ```
 
-```bash
+```md
 conda update --all
 ```
 
