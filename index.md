@@ -41,13 +41,13 @@ Lecture|Name|Topic|Slides
 
 Nr | Lecture | Topic | Slides 
 -- | -- | -- | -- 
-04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
 04|L04_1_data_basics|Data basics|[L04_1_data_basics.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_data_basics.pdf)  
 05|L05_1_case_passwords|Exploratory data analysis: categorical data|[L05_1_case_passwords.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_1_case_passwords.pdf) 
 05|L05_2_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_2_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_2_exploring_categorical_data.pdf)  
 
 
 <!--
+04|L04_1_case_study_stents|First data analysis: case study stents|[L04_1_case_study_stents.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L04_1_case_study_stents.pdf)  
 05|L05_3_exploring_categorical_data|Exploratory data analysis: categorical data|[L05_3_exploring_categorical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L05_3_exploring_categorical_data.pdf)  
 06|L06_1_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_1_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_1_exploring_numerical_data.pdf)  
 06|L06_2_exploring_numerical_data|Exploratory data analysis: numerical data|[L06_2_exploring_numerical_data.pdf](https://github.com/kirenz/applied-analytics/blob/main/slides/L06_2_exploring_numerical_data.pdf)  
