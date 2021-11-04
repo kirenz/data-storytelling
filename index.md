@@ -64,6 +64,9 @@ L04_1_case_study_stents|stents|[GitHub](https://github.com/kirenz/modern-statist
 L05_1_case_passwords|passwords|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/01-3-passwords.ipynb)
 L05_2_exploring_categorical_data|contingency-table-bar-plot|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-1-contingency-table-bar-plot.ipynb)
 L05_2_exploring_categorical_data|two-categorical-variables|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/04-2-two-categorical-variables.ipynb)
+Pandas|10 minutes pandas|[GitHub](https://kirenz.github.io/pandas/intro.html)| 
+
+
 
 
 <!--
