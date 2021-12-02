@@ -100,7 +100,7 @@ L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/m
 - [5 Python Libraries for Reporting and Factsheets](https://www.xlwings.org/blog/reporting-with-python)
 
 Output | Module
---- |---|---
+--- |---
 Excel   [xlwings](https://www.xlwings.org/)
 PDF |  [PyPDF2](https://pythonhosted.org/PyPDF2/)
 PowerPoint | [python-pptx](https://python-pptx.readthedocs.io/en/latest/index.html)
