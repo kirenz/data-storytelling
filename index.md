@@ -93,6 +93,17 @@ L06_2_exploring_numerical_data|transforming-data|[GitHub](https://github.com/kir
 L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)|[Colab](https://colab.research.google.com/github/kirenz/modern-statistics/blob/main/05-8-mapping-data.ipynb)
 -->
 
+---
+
+## Reporting
+
+- [5 Python Libraries for Reporting and Factsheets](https://www.xlwings.org/blog/reporting-with-python)
+
+Output | Module
+--- |---|---
+Excel   [xlwings](https://www.xlwings.org/)
+PDF |  [PyPDF2](https://pythonhosted.org/PyPDF2/)
+PowerPoint | [python-pptx](https://python-pptx.readthedocs.io/en/latest/index.html)
 
 
 ---
