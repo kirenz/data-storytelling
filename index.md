@@ -99,12 +99,13 @@ L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/m
 
 - [5 Python Libraries for Reporting and Factsheets](https://www.xlwings.org/blog/reporting-with-python)
 
-Output | Module
+Topic | Module
 --- |---
 Excel   [xlwings](https://www.xlwings.org/)
-PDF |  [PyPDF2](https://pythonhosted.org/PyPDF2/)
+PDF |  [PyPDF2](https://pythonhosted.org/PyPDF2/), [ReportLab](https://www.reportlab.com/dev/install/open_source_installation/),  [weasyprint](https://weasyprint.org/)
 PowerPoint | [python-pptx](https://python-pptx.readthedocs.io/en/latest/index.html)
-
+Table Visualization | [pandas table visualization](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html#)
+Template engine | [Jinja](https://jinja.palletsprojects.com/en/3.0.x/intro/)
 
 ---
 
