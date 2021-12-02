@@ -97,6 +97,11 @@ L06_2_exploring_numerical_data|mapping-data|[GitHub](https://github.com/kirenz/m
 
 ## Reporting
 
+You need to create the following documents:  
+
+1) Excel-file to distribute your most important data 
+2) PDF or PowerPoint-Report as a handout
+
 - [5 Python Libraries for Reporting and Factsheets](https://www.xlwings.org/blog/reporting-with-python)
 
 Topic | Module
