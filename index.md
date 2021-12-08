@@ -23,15 +23,11 @@ Lecture|Name|Topic|Slides
 03|L03_clutter|Eliminate clutter|[L03_clutter.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L03_clutter.pdf)  
 04|L04_attention|Focus attention|[L04_attention.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L04_attention.pdf)  
 05|L05_designer|Think like a designer|[L05_designer.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L05_designer.pdf)  
-
-
-
+06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
 
 <!--
-06|L06_story|Tell a story|[L06_story.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L06_story.pdf)  
 07|L07_recap|Repetition|[L07_recap.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L07_recap.pdf)  
 -->
-
 
 ---
 
