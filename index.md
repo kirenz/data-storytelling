@@ -4,6 +4,9 @@
 Welcome to data storytelling
 ```
 
+- [Vorgehensweise](https://docs.google.com/document/d/1I-DtsZrxcbOU-gQP7H_vHvk9DMgTHVMJdOQdv2viy3s/edit?usp=sharing)
+
+
 ## Organisatorisches
 
 Lecture|Name|Topic|Slides
