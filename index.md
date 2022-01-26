@@ -15,6 +15,13 @@ Lecture|Name|Topic|Slides
 00|L00_organisatorisches|Organisatorisches|[L00_organisatorisches.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_organisatorisches.pdf)  
 00|L00_dokumentation|Organisatorisches|[L00_dokumentation.pdf](https://github.com/kirenz/data-storytelling/blob/main/slides/L00_dokumentation.pdf) 
 
+Bewertungskriterien
+
+- [Projekt](https://github.com/kirenz/data-storytelling/blob/main/bewertung/projekt.pdf)  
+- [Dokumentation](https://github.com/kirenz/data-storytelling/blob/main/bewertung/dokumentation.pdf)  
+- [Präsentation](https://github.com/kirenz/data-storytelling/blob/main/bewertung/vortrag.pdf)  
+ 
+
 
 
 ## Explanatory Data Analytics 
